@@ -1,0 +1,50 @@
+
+# BEGIN All In One WP Security
+#AIOWPS_IP_BLACKLIST_START
+<IfModule !mod_authz_core.c>
+Order allow,deny
+Allow from all
+Deny from 185.102.136.0/24
+Deny from 185.36.190.0/24
+Deny from 185.36.191.0/24
+Deny from 94.141.65.0/24
+Deny from 94.141.92.0/24
+Deny from 94.141.93.0/24
+</IfModule>
+<IfModule mod_authz_core.c>
+<RequireAll>
+Require all granted
+Require not ip 185.102.136.0/24
+Require not ip 185.36.190.0/24
+Require not ip 185.36.191.0/24
+Require not ip 94.141.65.0/24
+Require not ip 94.141.92.0/24
+Require not ip 94.141.93.0/24
+</RequireAll>
+</IfModule>
+#AIOWPS_IP_BLACKLIST_END
+#AIOWPS_BLOCK_SPAMBOTS_START
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_METHOD} POST
+RewriteCond %{REQUEST_URI} ^(.*)?wp-comments-post\.php(.*)$
+RewriteCond %{HTTP_REFERER} !^http(s)?://domosed\.centr\.by [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} ^$
+RewriteRule .* http://127.0.0.1 [L]
+</IfModule>
+#AIOWPS_BLOCK_SPAMBOTS_END
+# END All In One WP Security
+
+## Default .htaccess file
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

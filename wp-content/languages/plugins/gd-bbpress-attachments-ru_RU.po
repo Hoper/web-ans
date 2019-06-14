@@ -1,0 +1,621 @@
+# Translation of Plugins - GD bbPress Attachments - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - GD bbPress Attachments - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-28 05:58:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - GD bbPress Attachments - Development (trunk)\n"
+
+#. Plugin URI of the plugin/theme
+msgid "https://plugins.dev4press.com/gd-bbpress-attachments/"
+msgstr "https://plugins.dev4press.com/gd-bbpress-attachments/"
+
+#: forms/tabs/toolbox.php:25
+msgid "Report topics and replies"
+msgstr "Отчёт по темам и ответам"
+
+#: forms/tabs/toolbox.php:21
+msgid "Enhanced attachments with validation and preview"
+msgstr "Расширенные вложения с проверкой и предварительным просмотром"
+
+#: forms/tabs/toolbox.php:10
+msgid "Dev4Press PLugins Club Membership"
+msgstr "Членство в клубе Dev4Press PLugins"
+
+#: forms/tabs/d4p.php:5 forms/tabs/d4p.php:10
+msgid "Plugin Demo"
+msgstr "Демо-версия"
+
+#: forms/tabs/attachments.php:29
+msgid "Hide attachements from visitors"
+msgstr "Скрыть вложения от посетителей"
+
+#: forms/tabs/attachments.php:22
+msgid "Maximum files to upload at once"
+msgstr "Максимальное количество файлов для одной загрузки"
+
+#: forms/tabs/about.php:23
+msgid "PHP: "
+msgstr "PHP: "
+
+#: code/admin.php:118
+msgid "Knowledge Base"
+msgstr "База знаний"
+
+#: code/admin.php:111
+msgid "Support Forum on Dev4Press"
+msgstr "Форум поддержки на Dev4Press"
+
+#. Author URI of the plugin/theme
+msgid "https://www.dev4press.com/"
+msgstr "https://www.dev4press.com/"
+
+#. Author of the plugin/theme
+msgid "Milan Petrovic"
+msgstr "Milan Petrovic"
+
+#. Description of the plugin/theme
+msgid "Implements attachments upload to the topics and replies in bbPress plugin through media library and adds additional forum based controls."
+msgstr "Реализует загрузку вложений в темах и ответах плагина bbPress через медиа-библиотеку и добавляет дополнительные элементы управления на основе форумов."
+
+#. Plugin Name of the plugin/theme
+msgid "GD bbPress Attachments"
+msgstr "GD bbPress Attachments"
+
+#: forms/uploader.php:9
+msgid "Add another file"
+msgstr "Добавить еще файл"
+
+#: forms/uploader.php:2
+msgid "Maximum file size allowed is"
+msgstr "Максимальный разрешенный размер файла"
+
+#: forms/tabs/toolbox.php:31
+msgid "and much more..."
+msgstr "и многое другое..."
+
+#: forms/tabs/toolbox.php:30
+msgid "More registered views"
+msgstr "Больше зарегистрированных просмотров"
+
+#: forms/tabs/toolbox.php:29
+msgid "More widgets"
+msgstr "Дополнительные виджеты"
+
+#: forms/tabs/toolbox.php:28
+msgid "BBCodes Toolbar"
+msgstr "BBCodes Toolbar"
+
+#: forms/tabs/toolbox.php:27
+msgid "More BBCodes"
+msgstr "Больше BBCodes"
+
+#: forms/tabs/toolbox.php:26
+msgid "SEO Tools"
+msgstr "Инструменты SEO"
+
+#: forms/tabs/toolbox.php:24
+msgid "Panel with logged errors"
+msgstr "Панель с зарегистрированными ошибками"
+
+#: forms/tabs/toolbox.php:23
+msgid "Panel with list of attachments"
+msgstr "Панель со списком вложений"
+
+#: forms/tabs/toolbox.php:22
+msgid "Limit upload to selected file types"
+msgstr "Ограничение загрузки для выбранных типов файлов"
+
+#: forms/tabs/toolbox.php:19
+msgid "Additional features"
+msgstr "Дополнительные возможности"
+
+#: forms/tabs/toolbox.php:14
+msgid "Contains all features from"
+msgstr "Содержит все функции из"
+
+#: forms/tabs/toolbox.php:9
+msgid "Toolbox Pro vs Free plugins"
+msgstr "Toolbox Pro vs Бесплатные плагины"
+
+#: forms/tabs/toolbox.php:7
+msgid "Important links"
+msgstr "Важные ссылки"
+
+#: forms/tabs/toolbox.php:4
+msgid "GD bbPress Toolbox Pro merges into one all our bbPress plugins: Attachments, Tools and Widgets. And, it expands these plugins with many more new features. Pro plugin is available through several different licenses."
+msgstr "GD bbPress Toolbox Pro объединяет в себя все наши плагины bbPress: вложения, инструменты и виджеты. И он расширяет эти плагины со многими новыми функциями. Pro доступен через несколько разных лицензий."
+
+#: forms/tabs/toolbox.php:2
+msgid "Special upgrade discount"
+msgstr "Специальная скидка на обновление"
+
+#: forms/tabs/d4p.php:24
+msgid "More Free Plugins"
+msgstr "Больше бесплатных плагинов"
+
+#: forms/tabs/d4p.php:15
+msgid "Other Premium Plugins"
+msgstr "Другие Premium плагины"
+
+#: forms/tabs/d4p.php:4 forms/tabs/d4p.php:9
+msgid "Plugin Home Website"
+msgstr "Главная страница плагина"
+
+#: forms/tabs/attachments.php:249
+msgid "Save Changes"
+msgstr "Сохранить настройки"
+
+#: forms/tabs/attachments.php:233
+msgid "Thumbnail size"
+msgstr "Размер миниатюры"
+
+#: forms/tabs/attachments.php:229
+msgid "plugin"
+msgstr "плагин."
+
+#: forms/tabs/attachments.php:229
+msgid "Changing thumbnails size affects only new image attachments. To use new size for old attachments, resize them using"
+msgstr "Изменение размера миниатюр влияет только на новые вложения изображений. Чтобы использовать новый размер для старых вложений, измените их размер, используя"
+
+#: forms/tabs/attachments.php:228
+msgid "Image thumbnails size"
+msgstr "Размер миниатюр изображений"
+
+#: forms/tabs/attachments.php:223
+msgid "You can use these tags"
+msgstr "Вы можете использовать эти теги"
+
+#: forms/tabs/attachments.php:220
+msgid "REL attribute"
+msgstr "Атрибут REL"
+
+#: forms/tabs/attachments.php:214
+msgid "CSS class"
+msgstr "ксласс CSS"
+
+#: forms/tabs/attachments.php:208
+msgid "In line"
+msgstr "В линию"
+
+#: forms/tabs/attachments.php:202
+msgid "With caption"
+msgstr "С подписью"
+
+#: forms/tabs/attachments.php:192
+msgid "Attached images can be displayed as thumbnails, and from here you can control this."
+msgstr "Прикрепленные изображения могут отображаться как миниатюры, и отсюда вы можете управлять этим."
+
+#: forms/tabs/attachments.php:191
+msgid "Display of image attachments"
+msgstr "Отображение прикрепленных изображений"
+
+#: forms/tabs/attachments.php:184
+msgid "File Type Icons"
+msgstr "Иконки типов фалов"
+
+#: forms/tabs/attachments.php:178
+msgid "Attachment Icon"
+msgstr "Иконка вложения"
+
+#: forms/tabs/attachments.php:174
+msgid "With these options you can modify the forums to include attachment elements."
+msgstr "С помощью этих параметров вы можете изменить форумы, чтобы включить элементы вложения."
+
+#: forms/tabs/attachments.php:173
+msgid "Forums Integration"
+msgstr "Интергация с форумом"
+
+#: forms/tabs/attachments.php:161
+msgid "Author"
+msgstr "Автор"
+
+#: forms/tabs/attachments.php:150
+msgid "Moderators"
+msgstr "Модераторы"
+
+#: forms/tabs/attachments.php:145 forms/tabs/attachments.php:156
+#: forms/tabs/attachments.php:167
+msgid "Allow both delete and detach"
+msgstr "Разрешить удаление и отсоединение"
+
+#: forms/tabs/attachments.php:144 forms/tabs/attachments.php:155
+#: forms/tabs/attachments.php:166
+msgid "Only detach from topic/reply"
+msgstr "Только отсоединение от темы/ответа"
+
+#: forms/tabs/attachments.php:143 forms/tabs/attachments.php:154
+#: forms/tabs/attachments.php:165
+msgid "Delete from Media Library"
+msgstr "Удаление из медиа-библиотеки"
+
+#: forms/tabs/attachments.php:142 forms/tabs/attachments.php:153
+#: forms/tabs/attachments.php:164
+msgid "Don't allow to delete"
+msgstr "Не разрешать удалять"
+
+#: forms/tabs/attachments.php:139
+msgid "Administrators"
+msgstr "Администраторы"
+
+#: forms/tabs/attachments.php:135
+msgid "Once uploaded and attached, attachments can be deleted. Only administrators and authors can do this."
+msgstr "После добавления и прикрепления вложения можно удалить. Только администраторы и авторы могут это сделать."
+
+#: forms/tabs/attachments.php:134
+msgid "Deleting attachments"
+msgstr "Удаление вложений"
+
+#: forms/tabs/attachments.php:127
+msgid "Visible to author"
+msgstr "Видимый автору"
+
+#: forms/tabs/attachments.php:121
+msgid "Visible to moderators"
+msgstr "Видимый модераторам"
+
+#: forms/tabs/attachments.php:115
+msgid "Visible to administrators"
+msgstr "Видимый администраторам"
+
+#: forms/tabs/attachments.php:109 forms/tabs/attachments.php:196
+msgid "Activated"
+msgstr "Активировано"
+
+#: forms/tabs/attachments.php:105
+msgid "Each failed upload will be logged in postmeta table. Administrators and topic/reply authors can see the log."
+msgstr "Каждая неудачная загрузка будет занесена в таблицу postmeta. Администраторы и авторы тем/ответов могут видеть журнал."
+
+#: forms/tabs/attachments.php:104
+msgid "Error logging"
+msgstr "Регистрация ошибок"
+
+#: forms/tabs/attachments.php:101
+msgid "Enable this option if you use BuddyPress with bbPress plugin for site wide forums."
+msgstr "Включите эту опцию, если вы используете BuddyPress с плагином bbPress для форумов сети."
+
+#: forms/tabs/attachments.php:94
+msgid "Always Include"
+msgstr "Всегда включать"
+
+#: forms/tabs/attachments.php:90
+msgid "If you use shortcodes to embed forums, and you rely on plugin to add JS and CSS, you also need to enable this option to skip checking for bbPress specific pages."
+msgstr "Если вы используете шорткоды для встраивания форумов, и вы полагаетесь на плагин для добавления JS и CSS, вам также необходимо включить этот параметр, чтобы пропустить проверку для конкретных страниц bbPress."
+
+#: forms/tabs/attachments.php:83
+msgid "Include CSS"
+msgstr "Добавить CSS"
+
+#: forms/tabs/attachments.php:77
+msgid "Include JavaScript"
+msgstr "Добавить JavaScript"
+
+#: forms/tabs/attachments.php:73
+msgid "You can disable including styles and JavaScript by the plugin, if you want to do it some other way."
+msgstr "Вы можете отключить предоставляемые плагином стили и JavaScript"
+
+#: forms/tabs/attachments.php:72
+msgid "JavaScript and CSS Settings"
+msgstr "Настройки JavaScript и CSS"
+
+#: forms/tabs/attachments.php:66
+msgid "Do nothing"
+msgstr "Ничего не делать"
+
+#: forms/tabs/attachments.php:65
+msgid "Delete"
+msgstr "Удалить"
+
+#: forms/tabs/attachments.php:64
+msgid "Leave in media library"
+msgstr "Оставить в медиа-библиотеке"
+
+#: forms/tabs/attachments.php:61
+msgid "Attachments Action"
+msgstr "Действие с вложениями"
+
+#: forms/tabs/attachments.php:57
+msgid "Select what to do with attachments when topic or reply with attachments is deleted."
+msgstr "Выберите, что делать с вложениями, когда тема или ответ с вложениями удалены."
+
+#: forms/tabs/attachments.php:56
+msgid "Topic and Reply Deleting"
+msgstr "Удаление тем и ответов"
+
+#: forms/tabs/attachments.php:41 forms/tabs/attachments.php:44
+msgid "Allow upload to"
+msgstr "Разрешить загрузку"
+
+#: forms/tabs/attachments.php:37
+msgid "Only users having one of the selected roles will be able to attach files."
+msgstr "Только пользователи с указанными правами могут размещать вложения"
+
+#: forms/tabs/attachments.php:36
+msgid "Users Upload Restrictions"
+msgstr "Права загрузки для пользователей"
+
+#: forms/tabs/attachments.php:25
+msgid "For single topic or reply"
+msgstr "Для одиночной темы или ответа"
+
+#: forms/tabs/attachments.php:11
+msgid "These settings can be overriden for individual forums."
+msgstr "Эти настройки могут быть переопределены для отдельных форм."
+
+#: forms/tabs/attachments.php:10
+msgid "Global Attachments Settings"
+msgstr "Общие настройки вложений"
+
+#: forms/tabs/attachments.php:3
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: forms/tabs/about.php:40
+msgid "Page"
+msgstr "Страница"
+
+#: forms/tabs/about.php:38
+msgid "Dev4Press Important Links"
+msgstr "Dev4Press важные ссылки"
+
+#: forms/tabs/about.php:37
+msgid "Plugin Support Forum on Dev4Press"
+msgstr "Форум поддержки плагина на Dev4Press"
+
+#: forms/tabs/about.php:36
+msgid "Plugin Support"
+msgstr "Поддержка плагина"
+
+#: forms/tabs/about.php:35 forms/tabs/about.php:39
+msgid "on"
+msgstr "Активно"
+
+#: forms/tabs/about.php:34
+msgid "Home Page"
+msgstr "Домашняя страница"
+
+#: forms/tabs/about.php:33
+msgid "Important Plugin Links"
+msgstr "Важные ссылки плагина"
+
+#: forms/tabs/about.php:27
+msgid "bbPress: "
+msgstr "bbPress: "
+
+#: forms/tabs/about.php:25
+msgid "WordPress: "
+msgstr "WordPress: "
+
+#: forms/tabs/about.php:20
+msgid "System Requirements"
+msgstr "Системные требования"
+
+#: forms/tabs/about.php:15
+msgid "Build: "
+msgstr "Версия:"
+
+#: forms/tabs/about.php:13
+msgid "Status: "
+msgstr "Статус:"
+
+#: forms/tabs/about.php:11
+msgid "Release Date: "
+msgstr "Дата релиза:"
+
+#: forms/panels.php:14
+msgid "About"
+msgstr "Про плагин"
+
+#: forms/panels.php:13
+msgid "Dev4Press"
+msgstr "Dev4Press"
+
+#: forms/panels.php:12
+msgid "Toolbox"
+msgstr "Инструменты"
+
+#: forms/attachments/meta_forum.php:26
+msgid "Hide From Visitors"
+msgstr "Скрыть от посетителей"
+
+#: forms/attachments/meta_forum.php:25
+msgid "Hide list of attachements from visitors"
+msgstr "Скрыть список вложений от посетителей"
+
+#: forms/attachments/meta_forum.php:20 forms/attachments/meta_forum.php:21
+msgid "Maximum files to upload"
+msgstr "Максимальное количество файлов для загрузки"
+
+#: forms/attachments/meta_forum.php:14 forms/attachments/meta_forum.php:15
+#: forms/tabs/attachments.php:15
+msgid "Maximum file size"
+msgstr "Максимальный размер файла"
+
+#: forms/attachments/meta_forum.php:12
+msgid "Settings to override"
+msgstr "Настройки для переопределения"
+
+#: forms/attachments/meta_forum.php:8 forms/attachments/meta_forum.php:9
+msgid "Override Defaults"
+msgstr "Переопределить значения по умолчанию"
+
+#: forms/attachments/meta_forum.php:3 forms/attachments/meta_forum.php:4
+msgid "Disable Attachments"
+msgstr "Запретить вложения"
+
+#: forms/attachments/meta_files.php:12
+msgid "edit"
+msgstr "изменить"
+
+#: forms/attachments/meta_files.php:5
+msgid "No attachments here."
+msgstr "Нет вложений"
+
+#: code/defaults.php:54
+msgid "Server extension restriction stopped upload."
+msgstr "Ограничение расширения сервера остановило загрузку."
+
+#: code/defaults.php:53
+msgid "Temporary folder for upload is missing."
+msgstr "Отсутствует временная папка для загрузки."
+
+#: code/defaults.php:52
+msgid "Can't write file to the disk."
+msgstr "Не удается записать файл на диск."
+
+#: code/defaults.php:51
+msgid "Upload file only partially uploaded."
+msgstr "Загружаемый файл только частично загружен."
+
+#: code/defaults.php:50
+msgid "Upload file size exceeds FORM specified file size."
+msgstr "Размер файла загрузки превышает указанный размер файла."
+
+#: code/defaults.php:49
+msgid "Upload file size exceeds PHP maximum file size allowed."
+msgstr "Размер файла загрузки превышает допустимый максимальный размер файла."
+
+#: code/defaults.php:48
+msgid "File not uploaded."
+msgstr "Файл не загружен."
+
+#: code/defaults.php:47
+msgid "File exceeds allowed file size."
+msgstr "Файл превышает допустимый размер файла."
+
+#: code/attachments/front.php:345 forms/attachments/meta_files.php:21
+msgid "Upload Errors"
+msgstr "Ошибки загрузки"
+
+#: code/attachments/front.php:245
+msgid "detach"
+msgstr "отсоединить"
+
+#: code/attachments/front.php:241
+msgid "delete"
+msgstr "удалить"
+
+#: code/attachments/front.php:211
+msgid "You must be <a href='%s'>logged in</a> to view attached files."
+msgstr "Вы должны <a href='%s'>войти</a> для просмотра вложений."
+
+#: code/attachments/front.php:193
+msgid "attachment"
+msgid_plural "attachments"
+msgstr[0] "вложение"
+msgstr[1] "вложения"
+msgstr[2] ""
+
+#: code/attachments/admin.php:101 code/attachments/admin.php:102
+msgid "Attachments List"
+msgstr "Перечень вложений"
+
+#: code/attachments/admin.php:100
+msgid "Attachments Settings"
+msgstr "Настройки вложений"
+
+#: code/admin.php:119
+msgid "Premium support forum for all with valid licenses to get help. Also, report bugs and leave suggestions."
+msgstr "Премиум-форум поддержки для всех с действительными лицензиями для получения справки. Также сообщайте об ошибках и оставляйте предложения."
+
+#: code/admin.php:119
+msgid "Support Forums"
+msgstr "Форумы поддержки"
+
+#: code/admin.php:118
+msgid "Premium and free tutorials for our plugins themes, and many general and practical WordPress tutorials."
+msgstr "Премиум и бесплатные уроки для наших плагинов, а также множество общих и практических учебников WordPress."
+
+#: code/admin.php:117
+msgid "We have more than 10 plugins available, some of them are commercial and some are available for free."
+msgstr "У нас есть более 10 плагинов, некоторые из них коммерческие, а некоторые доступны бесплатно."
+
+#: code/admin.php:117
+msgid "Plugins"
+msgstr "Плагины"
+
+#: code/admin.php:116
+msgid "On Dev4Press website you can find many useful plugins, themes and tutorials, all for WordPress. Please, take a few minutes to browse some of these resources, you might find some of them very useful."
+msgstr "На сайте Dev4Press вы можете найти множество полезных плагинов, тем и учебников, все для WordPress. Пожалуйста, за несколько минут, чтобы просмотреть некоторые из этих ресурсов, вы можете найти некоторые из них очень полезными."
+
+#: code/admin.php:110
+msgid "Support Forum on WordPress.org"
+msgstr "Форум поддержки на WordPress.org"
+
+#: code/admin.php:109
+msgid "Support Forum on Dev4Press.com"
+msgstr "Форум поддержки на Dev4Press.com"
+
+#: code/admin.php:108
+msgid "Getting Plugin Support"
+msgstr "Получение поддержки плагина"
+
+#: code/admin.php:107
+msgid "Home Page on WordPress.org"
+msgstr "Домашняя страница на WordPress.org"
+
+#: code/admin.php:106
+msgid "Home Page on Dev4Press.com"
+msgstr "Домашняя страница на Dev4Press.com"
+
+#: code/admin.php:105
+msgid "General Plugin Information"
+msgstr "Общая информация о плагине"
+
+#: code/admin.php:104
+msgid "Get Help"
+msgstr "Получить помощь!"
+
+#: code/admin.php:100
+msgid "On Facebook"
+msgstr "В Фейсбуке"
+
+#: code/admin.php:99
+msgid "On Twitter"
+msgstr "В твиттере"
+
+#: code/admin.php:98
+msgid "Website"
+msgstr "Сайт"
+
+#: code/admin.php:87
+msgid "Upgrade to GD bbPress Toolbox Pro"
+msgstr "Обновить до GD bbPress Toolbox Pro"
+
+#: code/admin.php:86 forms/panels.php:11
+msgid "FAQ"
+msgstr "FAQ"
+
+#: code/admin.php:77 forms/panels.php:10
+msgid "Settings"
+msgstr "Настройки"
+
+#: code/admin.php:62 code/attachments/admin.php:87
+#: code/attachments/front.php:206 forms/uploader.php:6
+msgid "Attachments"
+msgstr "Вложения"
+
+#: code/admin.php:56
+msgid "Don't display this message anymore"
+msgstr "Не отображать это сообщение снова"
+
+#: code/admin.php:55
+msgid "Dev4Press Plugins Pack"
+msgstr "Dev4Press Plugins Pack"
+
+#: code/admin.php:54 forms/tabs/toolbox.php:8
+msgid "Official Website"
+msgstr "Официальный веб-сайт"
+
+#: code/admin.php:52 forms/tabs/toolbox.php:5
+msgid "Buy GD bbPress Toolbox Pro version or Dev4Press Plugins Pack and get 15% discount using this coupon"
+msgstr "Купите GD bbPress Toolbox Pro версию или Dev4Press Plugins Pack и получите скидку 15%, используя этот купон"
+
+#: code/admin.php:51 forms/tabs/toolbox.php:3
+msgid "Thank you for using this plugin. Please, take a few minutes and check out the GD bbPress Toolbox Pro plugin with many new and improved features."
+msgstr "Благодарим вас за использование этого плагина. Пожалуйста, уделите несколько минут и посмотрите плагин GD bbPress Toolbox Pro со множеством новых и улучшенных функций."
